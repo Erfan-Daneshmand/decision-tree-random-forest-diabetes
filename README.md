@@ -98,7 +98,7 @@ The models were evaluated using a variety of metrics:
    pip install -r requirements.txt
    ```
 3. **Run the Jupyter Notebook:**
-   Open the `RF AND DT.ipynb` file in Jupyter Notebook to explore the code and results.
+   Open the `RF and DT.ipynb` file in Jupyter Notebook to explore the code and results.
 
 ## Contributing
 Contributions are welcome! If you have suggestions for improving the model, enhancing the documentation, or adding new features, feel free to open a pull request or issue.
